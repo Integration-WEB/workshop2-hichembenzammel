@@ -1,0 +1,23 @@
+.text, .h1, .textarea {
+  background-color: red;
+  font-size: 20px;
+}
+
+.text, .textarea, .h1 {
+  background-color: red;
+  color: white;
+}
+
+.btn {
+  border: 3px solid yellow;
+}
+
+last {
+  content: REACT;
+}
+
+first {
+  content: HTML5;
+}
+
+/*# sourceMappingURL=workshop.css.map */
